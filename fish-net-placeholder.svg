@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620">
+<defs><linearGradient id="water" x2="0" y2="1"><stop stop-color="#7cc8d5"/><stop offset="1" stop-color="#154d68"/></linearGradient></defs>
+<rect width="900" height="620" fill="url(#water)"/>
+<g fill="none" stroke="#d6edf0" stroke-width="3" opacity=".55"><path d="M0 100 Q120 65 240 100 T480 100 T720 100 T960 100"/><path d="M0 170 Q120 135 240 170 T480 170 T720 170 T960 170"/><path d="M0 240 Q120 205 240 240 T480 240 T720 240 T960 240"/></g>
+<path d="M155 160 L730 180 L790 470 L95 450 Z" fill="none" stroke="#dce7e8" stroke-width="6"/>
+<g stroke="#dce7e8" stroke-width="3" opacity=".9"><path d="M180 164 L140 452 M240 167 L220 454 M300 169 L300 456 M360 171 L380 458 M420 173 L460 460 M480 175 L540 462 M540 177 L620 464 M600 179 L700 466 M660 181 L760 468"/><path d="M130 220 L740 240 M120 285 L755 305 M110 350 L770 370 M100 415 L785 435"/></g>
+<g fill="#c7d5a0" stroke="#244b5a" stroke-width="3"><path d="M270 280 q55 -50 110 0 q-55 50 -110 0 l-38 -28 v56z"/><circle cx="350" cy="274" r="4" fill="#102e40"/><path d="M485 360 q45 -42 95 0 q-50 42 -95 0 l-33 -24 v48z"/><circle cx="566" cy="355" r="4" fill="#102e40"/><path d="M385 400 q35 -34 75 0 q-40 34 -75 0 l-25 -20 v40z"/><circle cx="450" cy="396" r="3" fill="#102e40"/></g>
+<text x="40" y="570" font-family="Arial,sans-serif" font-size="24" fill="#fff" opacity=".95">FISH SAMPLING PHOTO PLACEHOLDER</text>
+</svg>

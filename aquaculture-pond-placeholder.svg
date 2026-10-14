@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620">
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#d9e9ee"/><stop offset="1" stop-color="#f5f5e9"/></linearGradient><linearGradient id="water" x2="0" y2="1"><stop stop-color="#3b9eb2"/><stop offset="1" stop-color="#13536e"/></linearGradient></defs>
+<rect width="900" height="620" fill="url(#sky)"/><path d="M0 245 Q180 210 350 240 T900 220 V330 H0Z" fill="#6d8e62"/><path d="M0 280 Q230 245 440 276 T900 265 V620 H0Z" fill="url(#water)"/>
+<path d="M0 345 Q190 315 350 350 T900 335 M0 410 Q220 380 410 415 T900 400 M0 485 Q200 460 430 490 T900 470" fill="none" stroke="#9dd7d8" stroke-width="4" opacity=".65"/>
+<g stroke="#436f49" stroke-width="8" stroke-linecap="round"><path d="M70 270 l-12 -92 M88 270 l28 -105 M136 270 l-2 -80 M730 280 l-15 -110 M765 276 l24 -90 M820 278 l8 -120"/></g>
+<text x="40" y="565" font-family="Arial,sans-serif" font-size="24" fill="#fff" opacity=".9">AQUACULTURE POND PHOTO PLACEHOLDER</text>
+</svg>
